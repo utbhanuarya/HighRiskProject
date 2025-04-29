@@ -1,6 +1,6 @@
 
 # HighRiskProject - AI in Healthcare
-
+![HighRiskProject Banner](./system_architecture.png)
 The project showcases using a Vision Language Model to improve digital accessibility by acting as an enhanced screen reader.
 
 ## Table of Contents
