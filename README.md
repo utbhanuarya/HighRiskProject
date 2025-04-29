@@ -10,7 +10,6 @@ The project showcases using a Vision Language Model to improve digital accessibi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
