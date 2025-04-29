@@ -44,10 +44,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the main application (replace with actual command or script):
+Run the streamlit application (replace with actual command or script):
 
 ```bash
-python main.py
+steamlit run app.py
 ```
 
 The tool will process visual content and output accessible descriptions.
