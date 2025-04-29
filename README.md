@@ -1,8 +1,5 @@
-Here’s the README created exactly from your provided transcription, formatted properly without adding any new information:
 
----
-
-# HighRiskProject
+# HighRiskProject - AI in Healthcare
 
 The project showcases using a Vision Language Model to improve digital accessibility by acting as an enhanced screen reader.
 
