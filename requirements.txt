@@ -1,0 +1,11 @@
+pyobjc-framework-Quartz
+pyttsx3
+vosk
+SpeechRecognition
+pyaudio
+pocketsphinx
+keyboard
+numpy
+pyscreeze
+pillow
+streamlit
