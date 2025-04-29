@@ -36,6 +36,19 @@ Navigate to the project directory:
 cd HighRiskProject
 ```
 
+Set up Ollama:
+
+Install Ollama by following the official instructions: https://ollama.com/download
+
+Once installed, verify the installation:
+```bash
+ollama --version
+```
+Pull the Gemma 3 model:
+```bash
+ollama pull gemma3
+```
+
 Install dependencies (update this section with specific requirements as needed):
 
 ```bash
